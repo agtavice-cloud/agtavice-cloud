@@ -1,4 +1,4 @@
-![Agta Pereira: O poder dos dados. Análise de dados e automação, com atendimento remoto em todo o Brasil.](https://raw.githubusercontent.com/agtavice-cloud/index.html/main/assets/banner-perfil.svg)
+![Agta Pereira. Análise de dados e automação.](https://raw.githubusercontent.com/agtavice-cloud/index.html/main/assets/banner-perfil.svg)
 
 # Agta Pereira
 
@@ -8,7 +8,7 @@ Meu foco está em entender o problema de cada negócio, organizar os dados e apr
 
 **Atendimento remoto em todo o Brasil.**
 
-[Conheça meu portfólio](https://agtapereira.com.br/) | [Vamos conversar pelo LinkedIn](https://www.linkedin.com/in/agta-silva-250791193/)
+[Conheça meu portfólio](https://agtapereira.com.br/) | [LinkedIn](https://www.linkedin.com/in/agta-silva-250791193/)
 
 ## Como posso ajudar
 
@@ -39,8 +39,8 @@ Python | SQL | Power BI | Excel | Streamlit | AWS
 
 A escolha das ferramentas depende do problema e do escopo de cada projeto.
 
-## Vamos conversar?
+## Contato profissional
 
-Conte qual informação você precisa acompanhar ou qual tarefa gostaria de automatizar.
+Informações sobre serviços e projetos estão disponíveis no portfólio. Para contato profissional, utilize o LinkedIn.
 
 **[Portfólio](https://agtapereira.com.br/) | [LinkedIn](https://www.linkedin.com/in/agta-silva-250791193/)**

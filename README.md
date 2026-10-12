@@ -1,16 +1,46 @@
-## Hi there 👋
+![Agta Pereira: O poder dos dados. Análise de dados e automação, com atendimento remoto em todo o Brasil.](https://raw.githubusercontent.com/agtavice-cloud/index.html/main/assets/banner-perfil.svg)
 
-<!--
-**agtavice-cloud/agtavice-cloud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Agta Pereira
 
-Here are some ideas to get you started:
+Trabalho com análise de dados e automação para transformar informações dispersas em relatórios claros e indicadores que apoiem decisões.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Meu foco está em entender o problema de cada negócio, organizar os dados e apresentar uma solução que seja útil no dia a dia.
+
+**Atendimento remoto em todo o Brasil.**
+
+[Conheça meu portfólio](https://agtapereira.com.br/) | [Vamos conversar pelo LinkedIn](https://www.linkedin.com/in/agta-silva-250791193/)
+
+## Como posso ajudar
+
+| Necessidade | Solução |
+| --- | --- |
+| Planilhas desorganizadas ou inconsistentes | Limpeza, padronização e tratamento de dados |
+| Dificuldade para acompanhar resultados | Dashboards e indicadores em Power BI |
+| Relatórios que exigem tarefas repetitivas | Automação com Python e organização do fluxo de dados |
+| Dados espalhados em diferentes fontes | Preparação e análise com Python, SQL e Excel |
+
+## Projeto em destaque
+
+### [Consumo Inteligente](https://github.com/agtavice-cloud/consumo-inteligente-hackathon)
+
+Projeto de hackathon que reúne preparação de dados de compras, indicadores RFM, segmentação de clientes com K-Means e um aplicativo interativo em Streamlit.
+
+**O que demonstra:** organização de bases, análise de perfis de clientes, consultas SQL e apresentação de indicadores.
+
+[![Prévia do aplicativo Consumo Inteligente](https://raw.githubusercontent.com/agtavice-cloud/consumo-inteligente-hackathon/main/app/screenshots/Dashboard_principal%28KPIs-cluster%29.png)](https://github.com/agtavice-cloud/consumo-inteligente-hackathon)
+
+[Veja a documentação e as imagens do projeto](https://github.com/agtavice-cloud/consumo-inteligente-hackathon)
+
+*Projeto de portfólio, sem alegação de resultados comerciais reais.*
+
+## Ferramentas
+
+Python | SQL | Power BI | Excel | Streamlit | AWS
+
+A escolha das ferramentas depende do problema e do escopo de cada projeto.
+
+## Vamos conversar?
+
+Conte qual informação você precisa acompanhar ou qual tarefa gostaria de automatizar.
+
+**[Portfólio](https://agtapereira.com.br/) | [LinkedIn](https://www.linkedin.com/in/agta-silva-250791193/)**

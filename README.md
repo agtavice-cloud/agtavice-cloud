@@ -2,7 +2,7 @@
 
 # Agta Pereira
 
-Trabalho com análise de dados e automação para organizar bases, simplificar relatórios e criar indicadores que apoiem decisões.
+Sou graduada em Engenharia da Computação e trabalho com análise de dados e automação para organizar bases, simplificar relatórios e criar indicadores que apoiem decisões.
 
 ## Como posso ajudar
 

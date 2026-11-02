@@ -1,3 +1,5 @@
+<img width="4032" height="157" alt="image" src="https://github.com/user-attachments/assets/81f0692f-7289-4984-b293-77296c5456f3" />
+
 ![Agta Pereira. Análise de dados e automação.](https://raw.githubusercontent.com/agtavice-cloud/index.html/main/assets/banner-perfil.svg)
 
 # Agta Pereira

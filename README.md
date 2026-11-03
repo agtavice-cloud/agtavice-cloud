@@ -36,7 +36,7 @@ fontSize=40&fontColor=ffffff&fontAlignY=36&desc=Engenheira%20de%20Computação%2
 Sou **Engenheira de Computação** e atuo como **Analista de Dados e Automação**. Uno a base sólida de engenharia e tecnologia ao pensamento analítico de negócios para organizar bases complexas, padronizar dados, simplificar relatórios e construir indicadores claros que orientem tomadas de decisão inteligentes.
 
 -  **Foco de Atuação:** Limpeza e modelagem de dados, dashboards executivos em Power BI, automação de tarefas manuais com Python e modelos preditivos/clusterização.
--  **O que eu resolvo:**
+-  O que eu resolvo:**
   -  **Automação de rotinas:** Redução drástica de tempo em tarefas repetitivas de extração e tratamento.
   -  **Inteligência Visual:** Painéis intuitivos e dinâmicos com KPIs essenciais de desempenho.
   -  **Unificação de bases:** Integração de fontes dispersas (APIs, bancos relacionais, planilhas) em pipelines estruturados.

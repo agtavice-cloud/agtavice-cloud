@@ -31,16 +31,16 @@ fontSize=40&fontColor=ffffff&fontAlignY=36&desc=Engenheira%20de%20Computação%2
 
 ---
 
-### 🚀 Sobre Mim
+###  Sobre Mim
 
 Sou **Engenheira de Computação** e atuo como **Analista de Dados e Automação**. Uno a base sólida de engenharia e tecnologia ao pensamento analítico de negócios para organizar bases complexas, padronizar dados, simplificar relatórios e construir indicadores claros que orientem tomadas de decisão inteligentes.
 
-- 🎯 **Foco de Atuação:** Limpeza e modelagem de dados, dashboards executivos em Power BI, automação de tarefas manuais com Python e modelos preditivos/clusterização.
-- 💼 **O que eu resolvo:**
-  - 🔄 **Automação de rotinas:** Redução drástica de tempo em tarefas repetitivas de extração e tratamento.
-  - 📊 **Inteligência Visual:** Painéis intuitivos e dinâmicos com KPIs essenciais de desempenho.
-  - 🗄️ **Unificação de bases:** Integração de fontes dispersas (APIs, bancos relacionais, planilhas) em pipelines estruturados.
-- 💡 **Abordagem:** Foco na qualidade do dado, métricas acionáveis (CAC, LTV, Churn, RFM) e Data Storytelling.
+-  **Foco de Atuação:** Limpeza e modelagem de dados, dashboards executivos em Power BI, automação de tarefas manuais com Python e modelos preditivos/clusterização.
+-  **O que eu resolvo:**
+  -  **Automação de rotinas:** Redução drástica de tempo em tarefas repetitivas de extração e tratamento.
+  -  **Inteligência Visual:** Painéis intuitivos e dinâmicos com KPIs essenciais de desempenho.
+  -  **Unificação de bases:** Integração de fontes dispersas (APIs, bancos relacionais, planilhas) em pipelines estruturados.
+-  **Abordagem:** Foco na qualidade do dado, métricas acionáveis (CAC, LTV, Churn, RFM) e Data Storytelling.
 
 ---
 
@@ -49,7 +49,7 @@ Sou **Engenheira de Computação** e atuo como **Analista de Dados e Automação
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h4>📊 Business Intelligence & Visualização</h4>
+      <h4> Business Intelligence & Visualização</h4>
       <p>
         <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI" />
         <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" alt="Excel" />
@@ -61,7 +61,7 @@ Sou **Engenheira de Computação** e atuo como **Analista de Dados e Automação
       </p>
     </td>
     <td width="50%" valign="top">
-      <h4>🐍 Linguagens & Bancos de Dados</h4>
+      <h4> Linguagens & Bancos de Dados</h4>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
         <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL" />
@@ -74,7 +74,7 @@ Sou **Engenheira de Computação** e atuo como **Analista de Dados e Automação
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4>🤖 Machine Learning & Data Science</h4>
+      <h4> Machine Learning & Data Science</h4>
       <p>
         <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="Scikit-Learn" />
         <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
@@ -84,7 +84,7 @@ Sou **Engenheira de Computação** e atuo como **Analista de Dados e Automação
       </p>
     </td>
     <td width="50%" valign="top">
-      <h4>⚙️ Automação & Ferramentas</h4>
+      <h4> Automação & Ferramentas</h4>
       <p>
         <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white" alt="Selenium" />
         <img src="https://img.shields.io/badge/BeautifulSoup-59666C?style=flat-square&logo=python&logoColor=white" alt="BeautifulSoup" />
@@ -99,22 +99,22 @@ Sou **Engenheira de Computação** e atuo como **Analista de Dados e Automação
 
 ---
 
-### 📂 Projetos em Destaque
+###  Projetos em Destaque
 
 <div align="center">
 
 | Projeto | Descrição | Tecnologias | Links |
 | :--- | :--- | :---: | :---: |
-| **💡 Consumo Inteligente (Hackathon)** | Solução para segmentação de clientes a partir de registros de compras com cálculo de RFM, clusterização K-Means e app web interativo para consulta de recomendações. | `Python` `Streamlit` `Power BI` `SQL` `Scikit-Learn` | [Ver Repositório](https://github.com/agtavice-cloud/consumo-inteligente-hackathon) |
-| **📊 Painel Executivo de Vendas & Performance Financeira** | Dashboard completo em Power BI com métricas de receita, margem de contribuição, ticket médio e análise cohort para tomada de decisão ágil. | `Power BI` `DAX` `SQL` `Power Query` | [Ver Projeto](https://github.com/agtavice-cloud) |
-| **⚙️ Pipeline ETL & Web Scraping para Inteligência de Mercado** | Automação que coleta dados de concorrência e mercado, normaliza os dados e persiste em banco relacional com rotinas programadas. | `Python` `BeautifulSoup` `PostgreSQL` `Selenium` | [Ver Projeto](https://github.com/agtavice-cloud) |
-| **📉 Previsão de Churn & Estratégia de Retenção** | Modelo preditivo em Machine Learning para identificação precoce de clientes com probabilidade de cancelamento com análise de impacto financeiro. | `Python` `Scikit-Learn` `Pandas` `Streamlit` | [Ver Projeto](https://github.com/agtavice-cloud) |
+| ** Consumo Inteligente (Hackathon)** | Solução para segmentação de clientes a partir de registros de compras com cálculo de RFM, clusterização K-Means e app web interativo para consulta de recomendações. | `Python` `Streamlit` `Power BI` `SQL` `Scikit-Learn` | [Ver Repositório](https://github.com/agtavice-cloud/consumo-inteligente-hackathon) |
+| ** Painel Executivo de Vendas & Performance Financeira** | Dashboard completo em Power BI com métricas de receita, margem de contribuição, ticket médio e análise cohort para tomada de decisão ágil. | `Power BI` `DAX` `SQL` `Power Query` | [Ver Projeto](https://github.com/agtavice-cloud) |
+| ** Pipeline ETL & Web Scraping para Inteligência de Mercado** | Automação que coleta dados de concorrência e mercado, normaliza os dados e persiste em banco relacional com rotinas programadas. | `Python` `BeautifulSoup` `PostgreSQL` `Selenium` | [Ver Projeto](https://github.com/agtavice-cloud) |
+| ** Previsão de Churn & Estratégia de Retenção** | Modelo preditivo em Machine Learning para identificação precoce de clientes com probabilidade de cancelamento com análise de impacto financeiro. | `Python` `Scikit-Learn` `Pandas` `Streamlit` | [Ver Projeto](https://github.com/agtavice-cloud) |
 
 </div>
 
 ---
 
-### 📈 Estatísticas do GitHub
+###  Estatísticas do GitHub
 
 <div align="center">
   <table border="0">
@@ -138,7 +138,7 @@ Sou **Engenheira de Computação** e atuo como **Analista de Dados e Automação
 
 ### 💬 Vamos Conversar?
 
-Estou à disposição para projetos, consultorias e oportunidades na área de dados e automação!
+Projetos, consultorias e oportunidades na área de dados e automação!
 
 <p align="center">
   <a href="https://www.linkedin.com/in/agta-silva-250791193/">

@@ -1,6 +1,7 @@
 <!-- BANNER PRINCIPAL COM GRADIENTE E DESIGN MODERNO -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B132B,50:1C2541,100:3A506B&height=240&section=header&text=Olá,%20sou%20Agta%20Pereira%20👋&fontSize=40&fontColor=ffffff&fontAlignY=36&desc=Engenheira%20de%20Computação%20|%20Analista%20de%20Dados%20|%20Automação%20&descAlignY=58&descFontSize=19" width="100%" alt="Header Banner Agta Pereira" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B132B,50:1C2541,100:3A506B&height=240&section=header&text=Olá,%20sou%20Agta%20Pereira%20
+fontSize=40&fontColor=ffffff&fontAlignY=36&desc=Engenheira%20de%20Computação%20|%20Analista%20de%20Dados%20|%20Automação%20&descAlignY=58&descFontSize=19" width="100%" alt="Header Banner Agta Pereira" />
 </div>
 
 <!-- DIGITAÇÃO DINÂMICA (TYPING SVG) -->

@@ -1,13 +1,12 @@
 <!-- BANNER PRINCIPAL COM GRADIENTE E DESIGN MODERNO -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B132B,50:1C2541,100:3A506B&height=240&section=header&text=Olá,%20sou%20Agta%20Pereira%20
-fontSize=40&fontColor=ffffff&fontAlignY=36&desc=Engenheira%20de%20Computação%20|%20Analista%20de%20Dados%20|%20Automação%20&descAlignY=58&descFontSize=19" width="100%" alt="Header Banner Agta Pereira" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B132B,50:1C2541,100:3A506B&height=240&section=header&text=Olá,%20sou%20Agta%20Pereira%20👋&fontSize=40&fontColor=ffffff&fontAlignY=36&desc=Engenheira%20de%20Computação%20|%20Analista%20de%20Dados%20|%20Automação%20&descAlignY=58&descFontSize=19" width="100%" alt="Header Banner Agta Pereira" />
 </div>
 
 <!-- DIGITAÇÃO DINÂMICA (TYPING SVG) -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=48CAE4&center=true&vCenter=true&multiline=false&width=620&lines=Transformando+dados+brutos+em+decis%C3%B5es+estrat%C3%A9gicas;Engenheira+de+Computa%C3%A7%C3%A3o+%26+Analista+de+Dados;Especialista+em+SQL%2C+Python%2C+Power+BI+e+Excel;Automatizando+processos+e+criando+modelos+de+ML;Storytelling+com+dados%2C+indicadores+e+impacto+real" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=48CAE4&center=true&vCenter=true&multiline=false&width=720&lines=Transformando+dados+brutos+em+decis%C3%B5es+estrat%C3%A9gicas;Engenheira+de+Computa%C3%A7%C3%A3o+%26+Analista+de+Dados;Desenvolvendo+solu%C3%A7%C3%B5es+com+SQL%2C+Python%2C+Power+BI+e+Excel;Automatizando+processos+e+criando+modelos+de+ML;Storytelling+com+dados%2C+indicadores+e+impacto+real" alt="Typing SVG" />
   </a>
 </div>
 

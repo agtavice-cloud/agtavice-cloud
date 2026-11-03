@@ -105,10 +105,10 @@ Sou **Engenheira de Computação** e atuo como **Analista de Dados e Automação
 
 | Projeto | Descrição | Tecnologias | Links |
 | :--- | :--- | :---: | :---: |
-| ** Consumo Inteligente (Hackathon)** | Solução para segmentação de clientes a partir de registros de compras com cálculo de RFM, clusterização K-Means e app web interativo para consulta de recomendações. | `Python` `Streamlit` `Power BI` `SQL` `Scikit-Learn` | [Ver Repositório](https://github.com/agtavice-cloud/consumo-inteligente-hackathon) |
-| ** Painel Executivo de Vendas & Performance Financeira** | Dashboard completo em Power BI com métricas de receita, margem de contribuição, ticket médio e análise cohort para tomada de decisão ágil. | `Power BI` `DAX` `SQL` `Power Query` | [Ver Projeto](https://github.com/agtavice-cloud) |
-| ** Pipeline ETL & Web Scraping para Inteligência de Mercado** | Automação que coleta dados de concorrência e mercado, normaliza os dados e persiste em banco relacional com rotinas programadas. | `Python` `BeautifulSoup` `PostgreSQL` `Selenium` | [Ver Projeto](https://github.com/agtavice-cloud) |
-| ** Previsão de Churn & Estratégia de Retenção** | Modelo preditivo em Machine Learning para identificação precoce de clientes com probabilidade de cancelamento com análise de impacto financeiro. | `Python` `Scikit-Learn` `Pandas` `Streamlit` | [Ver Projeto](https://github.com/agtavice-cloud) |
+|  Consumo Inteligente (Hackathon)** | Solução para segmentação de clientes a partir de registros de compras com cálculo de RFM, clusterização K-Means e app web interativo para consulta de recomendações. | `Python` `Streamlit` `Power BI` `SQL` `Scikit-Learn` | [Ver Repositório](https://github.com/agtavice-cloud/consumo-inteligente-hackathon) |
+|  Painel Executivo de Vendas & Performance Financeira** | Dashboard completo em Power BI com métricas de receita, margem de contribuição, ticket médio e análise cohort para tomada de decisão ágil. | `Power BI` `DAX` `SQL` `Power Query` | [Ver Projeto](https://github.com/agtavice-cloud) |
+|  Pipeline ETL & Web Scraping para Inteligência de Mercado** | Automação que coleta dados de concorrência e mercado, normaliza os dados e persiste em banco relacional com rotinas programadas. | `Python` `BeautifulSoup` `PostgreSQL` `Selenium` | [Ver Projeto](https://github.com/agtavice-cloud) |
+|  Previsão de Churn & Estratégia de Retenção** | Modelo preditivo em Machine Learning para identificação precoce de clientes com probabilidade de cancelamento com análise de impacto financeiro. | `Python` `Scikit-Learn` `Pandas` `Streamlit` | [Ver Projeto](https://github.com/agtavice-cloud) |
 
 </div>
 
